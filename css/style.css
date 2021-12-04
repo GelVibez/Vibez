@@ -381,13 +381,8 @@ skew to change the 'thickness' of the glitch.*/
 .previewImage1{
   transition:all .8s cubic-bezier(.08,.82,.17,1) .1s;
 
-}
 
 #wrapper-3{
-  background: #45423b;
-}
-
-#wrapper-4 {
     margin:0;
     padding:0;
     background:#45423b;
@@ -395,6 +390,9 @@ skew to change the 'thickness' of the glitch.*/
   
 }
 
+ #wrapper-4{
+  background: #45423b;
+}
 #fp-nav ul li a span, .fp-slidesNav ul li a span {
     background: white !important;
 }
