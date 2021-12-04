@@ -515,13 +515,13 @@ skew to change the 'thickness' of the glitch.*/
 }
 
 .desktop li:hover:nth-child(4) a{
-  background: #e4405f;
+  background: #d886f1;
 }
 .desktop li:hover:nth-child(4) a:before{
-  background: #d81c3f;
+  background: #c176d8;
 }
 .desktop li:hover:nth-child(4) a:after{
-  background: #e46880;
+  background: #e9a5ff;
 }
 
 
@@ -598,13 +598,13 @@ and (max-device-width : 610px) {
   }
   
   .mobile li:hover:nth-child(4){
-    background: #e4405f;
+    background: #d886f1;
   }
   .mobile li:hover:nth-child(4):before{
-    background: #d81c3f;
+    background: #c176d8;
   }
   .mobile li:hover:nth-child(4):after{
-    background: #e46880;
+    background: #e9a5ff;
   }
 
   .mobile li:hover{
