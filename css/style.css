@@ -13,7 +13,7 @@ html, body, h1 {
  }
 
 #wrapper{
-    background: #45423b;
+    background: #0a0a0a;
     height: 100vh;
     width: 100%;
     margin: 0;
@@ -297,7 +297,7 @@ skew to change the 'thickness' of the glitch.*/
 }
 
 #wrapper-2{
-  background: #45423b;
+  background: #0a0a0a;
 }
 
 .previewTag{
@@ -381,18 +381,16 @@ skew to change the 'thickness' of the glitch.*/
 .previewImage1{
   transition:all .8s cubic-bezier(.08,.82,.17,1) .1s;
 
+}
 
-#wrapper-3{
+#wrapper-3 {
     margin:0;
     padding:0;
-    background:#45423b;
+    background:#0a0a0a;
     font-family: 'Roboto Condensed', sans-serif;
   
 }
 
- #wrapper-4{
-  background: #45423b;
-}
 #fp-nav ul li a span, .fp-slidesNav ul li a span {
     background: white !important;
 }
@@ -517,13 +515,13 @@ skew to change the 'thickness' of the glitch.*/
 }
 
 .desktop li:hover:nth-child(4) a{
-  background: #d886f1;
+  background: #e4405f;
 }
 .desktop li:hover:nth-child(4) a:before{
-  background: #c176d8;
+  background: #d81c3f;
 }
 .desktop li:hover:nth-child(4) a:after{
-  background: #e9a5ff;
+  background: #e46880;
 }
 
 
@@ -600,13 +598,13 @@ and (max-device-width : 610px) {
   }
   
   .mobile li:hover:nth-child(4){
-    background: #d886f1;
+    background: #e4405f;
   }
   .mobile li:hover:nth-child(4):before{
-    background: #c176d8;
+    background: #d81c3f;
   }
   .mobile li:hover:nth-child(4):after{
-    background: #e9a5ff;
+    background: #e46880;
   }
 
   .mobile li:hover{
