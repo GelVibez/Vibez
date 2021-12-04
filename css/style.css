@@ -12,6 +12,21 @@ html, body, h1 {
     src: url("http://db.onlinewebfonts.com/t/c219f305b7a204d136976bbfeb9626da.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
  }
 
+#wrapper{
+    background: #0a0a0a;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(10, 10, 10, 0.6), rgba(0, 0, 0, 0.9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), url("https://cdn.discordapp.com/attachments/746671964344680459/815223741139255296/image0.jpg");
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+}
 
 .sub {
   color: #64dcdc;
@@ -281,7 +296,9 @@ skew to change the 'thickness' of the glitch.*/
   }
 }
 
-
+#wrapper-2{
+  background: #0a0a0a;
+}
 
 .previewTag{
   position: absolute;
@@ -366,6 +383,16 @@ skew to change the 'thickness' of the glitch.*/
 
 }
 
+#wrapper-3{
+  background: #0a0a0a;
+}
+#wrapper-4 {
+    margin:0;
+    padding:0;
+    background:#0a0a0a;
+    font-family: 'Roboto Condensed', sans-serif;
+  
+}
 
 #fp-nav ul li a span, .fp-slidesNav ul li a span {
     background: white !important;
