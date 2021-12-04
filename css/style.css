@@ -13,7 +13,7 @@ html, body, h1 {
  }
 
 #wrapper{
-    background: #0a0a0a;
+    background: #45423b;
     height: 100vh;
     width: 100%;
     margin: 0;
@@ -297,7 +297,7 @@ skew to change the 'thickness' of the glitch.*/
 }
 
 #wrapper-2{
-  background: #0a0a0a;
+  background: #45423b;
 }
 
 .previewTag{
@@ -384,12 +384,13 @@ skew to change the 'thickness' of the glitch.*/
 }
 
 #wrapper-3{
-  background: #0a0a0a;
+  background: #45423b;
 }
+
 #wrapper-4 {
     margin:0;
     padding:0;
-    background:#0a0a0a;
+    background:#45423b;
     font-family: 'Roboto Condensed', sans-serif;
   
 }
